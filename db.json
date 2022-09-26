@@ -1,7 +1,9 @@
 {
   "users": {
     "id": 1,
-    "firstName":"Cristina"
+    "firstName":"Cristina",
+    "email":"cristina@yahoo.com",
+    password:"eee"
   },
   "posts": [
     { "id": 1, "title": "Post 1" },
