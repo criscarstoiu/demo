@@ -5,6 +5,10 @@
       "email":"cristina@yahoo.com",
       "password":"eee"
    },
+   "user/login": {
+      "email":"cristina@yahoo.com",
+      "password":"eee"
+   },
    "users":[
       {
          "id":1,
