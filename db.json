@@ -5,7 +5,7 @@
       "email":"cristina@yahoo.com",
       "password":"eee"
    },
-   "user/login": {
+   "login": {
       "email":"cristina@yahoo.com",
       "password":"eee",
       "remember": true
